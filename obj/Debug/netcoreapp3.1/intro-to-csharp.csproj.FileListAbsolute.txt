@@ -1,0 +1,12 @@
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/bin/Debug/netcoreapp3.1/intro-to-csharp.deps.json
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/bin/Debug/netcoreapp3.1/intro-to-csharp.runtimeconfig.json
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/bin/Debug/netcoreapp3.1/intro-to-csharp.runtimeconfig.dev.json
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/bin/Debug/netcoreapp3.1/intro-to-csharp.dll
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/bin/Debug/netcoreapp3.1/intro-to-csharp.pdb
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/obj/Debug/netcoreapp3.1/intro-to-csharp.csprojAssemblyReference.cache
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/obj/Debug/netcoreapp3.1/intro-to-csharp.csproj.CoreCompileInputs.cache
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/obj/Debug/netcoreapp3.1/intro-to-csharp.AssemblyInfoInputs.cache
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/obj/Debug/netcoreapp3.1/intro-to-csharp.AssemblyInfo.cs
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/obj/Debug/netcoreapp3.1/intro-to-csharp.dll
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/obj/Debug/netcoreapp3.1/intro-to-csharp.pdb
+/Users/arjunnair/Desktop/csharp/lessons/intro-to-csharp/obj/Debug/netcoreapp3.1/intro-to-csharp.genruntimeconfig.cache
