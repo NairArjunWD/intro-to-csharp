@@ -1,3 +1,3 @@
 # Intro to C#
 
-Practice for C#.
+Lessons for C#.
